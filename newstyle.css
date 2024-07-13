@@ -1,0 +1,11 @@
+.socialsvg {
+  height: 100px !important;
+  width: 100px !important;
+}
+
+@media screen and (max-width: 576px) {
+  .socialsvg {
+    height: 40px !important;
+    width: 40px !important;
+  }
+}
